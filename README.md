@@ -11,3 +11,7 @@ This app is designed for users to easily browse and purchase milk products, as w
 - **Admin**: Can manage accounts, revenue statistics, products, and other administrative tasks.
 
 This app aims to provide a convenient and user-friendly shopping experience for users looking to purchase milk products and access relevant health care information.
+
+Đối với thông tin chi tiết về cài đặt và sử dụng, vui lòng xem tài liệu hướng dẫn trong thư mục [docs](https://docs.google.com/document/d/1yvmd45YdcSHViA0HYDEPRxFCS-TnyH0OSEeQMWt52lY/edit?usp=sharing).
+---
+Hãy cập nhật tài liệu này theo tiến trình và yêu cầu cụ thể của dự án. 😊📚
