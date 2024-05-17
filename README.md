@@ -1,4 +1,4 @@
-# 🐮 Milk Shopping App
+# 🐮.: BABYBOO :. Milk Shopping App
 
 This app is designed for users to easily browse and purchase milk products, as well as access articles on health care for pregnant women and babies. The app offers different features based on the user roles:
 
