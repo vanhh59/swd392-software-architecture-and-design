@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #000000;
+  color: #ffffff  ;
+  /* background-image:  url("background.jpg"); */
+}
+
+input,
+textarea {
+  color: #000;
+}
