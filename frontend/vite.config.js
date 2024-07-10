@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      "/api/": "http://localhost:10000",
-      "/uploads/": "http://localhost:5000",
+      "/api/": "https://babyboo-backend-test.onrender.com",
+      "/uploads/": "https://babyboo-backend-test.onrender.com",
     },
   },
 });
